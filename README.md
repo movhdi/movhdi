@@ -5,6 +5,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/movhdi/movhdi/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/movhdi/movhdi/output/github-contribution-grid-snake.svg">
 </picture>
+
+![](https://komarev.com/ghpvc/?username=movhdi&color=ff69b4)
 <!--
 **movhdi/movhdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
